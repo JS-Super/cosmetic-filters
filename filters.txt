@@ -1,6 +1,6 @@
-www.reuters.com##.OldSiteBanner__banner___id1Yv3
-www.reuters.com##.RegularArticleLayout__newsletter___FNfLrT
-www.youtube.com###secondary
-www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
-www.youtube.com##.grid-disabled.grid.ytd-browse.style-scope
+reuters.com##.OldSiteBanner__banner___id1Yv3
+reuters.com##.RegularArticleLayout__newsletter___FNfLrT
+youtube.com###secondary
+youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+youtube.com##.grid-disabled.grid.ytd-browse.style-scope
 softpedia.com###cookienotif
